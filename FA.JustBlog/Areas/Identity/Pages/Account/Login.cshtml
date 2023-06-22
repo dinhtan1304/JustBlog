@@ -1,0 +1,99 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+    Layout = null;
+}
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="~/assets/fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="~/assets/css/owl.carousel.min.css">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+
+    <!-- Style -->
+    <link rel="stylesheet" href="~/assets/css/style.css">
+
+    <title>Sign In to JustBlog</title>
+</head>
+<body>
+
+
+    <div class="d-lg-flex half">
+        <div class="bg order-1 order-md-2" style="background-image: url('../../assets/images/bg_1.jpg');"></div>
+        <div class="contents order-2 order-md-1">
+
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-md-7">
+                        <h3>Login to <strong><a class="navbar-brand" style="text-decoration: none; font-size: 30px" href="@Url.Action("Index", "Home")">Just Blog</a></strong></h3>
+                        <p class="mb-4">Join us in exploring the colorful world of knowledge through our high-quality blog posts on our website.</p>
+                        <form id="account" method="post">
+                            <div class="form-group first">
+                                <label for="username">Username</label>
+                                <input asp-for="Input.Email" type="text" class="form-control" placeholder="Account" id="username">
+                                <span asp-validation-for="Input.Email" class="text-danger"></span>
+                            </div>
+                            <div class="form-group last mb-3">
+                                <label for="password">Password</label>
+                                <input asp-for="Input.Password" type="password" class="form-control" placeholder="Password" id="password">
+                                <span asp-validation-for="Input.Password" class="text-danger"></span>
+                            </div>
+
+                            <div class="d-flex mb-5 align-items-center">
+                                <label class="control control--checkbox mb-0">
+                                    <span class="caption">Remember me</span>
+                                    <input asp-for="Input.RememberMe" type="checkbox" checked="checked" />
+
+                                    <div class="control__indicator"></div>
+                                </label>
+                            </div>
+
+                            <button id="login-submit" type="submit" class="btn btn-block btn-primary">Log In</button>
+                            Need an account? <span class="mt-5"><a href="/Identity/Account/Register">Sign Up</a></span>                           
+                        </form>
+
+                        <div class="divider d-flex align-items-center my-4">
+                            <p class="text-center fw-bold mx-3 mb-0 text-muted">OR Sử dụng dịch vụ</p>
+                        </div>
+                        @if ((Model.ExternalLogins?.Count ?? 0) != 0)
+                        {
+                            <section>
+                                <hr />
+                                <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
+                                    <div>
+                                        <p>
+                                            @foreach (var provider in Model.ExternalLogins)
+                                            {
+                                                <button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">@provider.DisplayName</button>
+                                            }
+                                        </p>
+                                    </div>
+                                </form>
+                            </section>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+
+
+    <script src="~/assets/js/jquery-3.3.1.min.js"></script>
+    <script src="~/assets/js/popper.min.js"></script>
+    <script src="~/assets/js/bootstrap.min.js"></script>
+    <script src="~/assets/js/main.js"></script>
+</body>
+</html>

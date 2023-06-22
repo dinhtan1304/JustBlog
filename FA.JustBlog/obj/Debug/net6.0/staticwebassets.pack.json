@@ -1,0 +1,2785 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FA.JustBlog.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FA.JustBlog.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\CHANGES.md",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\CHANGES.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\README.md",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\SECURITY.md",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\SECURITY.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\adapters\\jquery.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\adapters\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\bender-runner.config.json",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\bender-runner.config.json"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\build-config.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\build-config.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\config.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\contents.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\contents.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\af.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\az.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\bn.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\bn.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\bs.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\da.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\de.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\el.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\en.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\es.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\et.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\fo.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\he.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\id.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\is.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\is.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\it.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\ka.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\ka.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\km.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\mk.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\mn.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\ms.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\no.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\si.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\th.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\about\\dialogs\\about.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\about\\dialogs\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\dialog\\dialogDefinition.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\dialog\\dialogDefinition.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\dialog\\styles\\dialog.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\dialog\\styles\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\icons.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\image\\dialogs\\image.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\image\\dialogs\\image.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\image\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\image\\images\\noimage.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\link\\dialogs\\anchor.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\link\\dialogs\\anchor.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\link\\dialogs\\link.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\link\\dialogs\\link.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\link\\images\\anchor.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\link\\images\\anchor.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\magicline\\images\\icon.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\magicline\\images\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\pastefromword\\filter\\default.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\pastefromword\\filter\\default.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\pastetools\\filter\\common.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\pastetools\\filter\\common.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\pastetools\\filter\\image.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\pastetools\\filter\\image.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\scayt\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\scayt\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\scayt\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\scayt\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\scayt\\README.md",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\scayt\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\scayt\\dialogs\\options.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\scayt\\dialogs\\options.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\table\\dialogs\\table.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\table\\dialogs\\table.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\plugins\\widget\\images\\handle.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\plugins\\widget\\images\\handle.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\css\\samples.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\css\\samples.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\img\\github-top.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\img\\github-top.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\img\\header-bg.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\img\\header-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\img\\header-separator.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\img\\header-separator.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\img\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\img\\navigation-tip.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\img\\navigation-tip.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\index.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\js\\sample.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\js\\sample.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\js\\sf.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\js\\sf.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\ajax.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\ajax.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\api.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\api.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\appendto.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\appendto.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\assets\\posteddata.php",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\assets\\posteddata.php"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\assets\\sample.jpg",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\assets\\sample.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\datafiltering.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\datafiltering.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\dialog\\dialog.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\dialog\\dialog.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\divreplace.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\divreplace.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\enterkey\\enterkey.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\enterkey\\enterkey.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\index.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\inlineall.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\inlineall.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\inlinebycode.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\inlinebycode.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\inlinetextarea.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\inlinetextarea.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\jquery.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\jquery.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\magicline\\magicline.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\magicline\\magicline.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\readonly.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\readonly.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\replacebyclass.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\replacebyclass.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\replacebycode.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\replacebycode.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\sample.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\sample.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\sample.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\sample.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\sample_posteddata.php",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\sample_posteddata.php"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\tabindex.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\tabindex.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\toolbar\\toolbar.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\toolbar\\toolbar.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\uicolor.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\uicolor.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\uilanguages.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\uilanguages.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\old\\xhtmlstyle.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\old\\xhtmlstyle.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\toolbarconfigurator\\index.html",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\toolbarconfigurator\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\LICENSE",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\dialog.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\dialog_ie.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\dialog_ie.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\editor.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\editor.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\editor_gecko.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\editor_gecko.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\editor_ie.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\editor_ie.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\editor_ie8.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\editor_ie8.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\icons.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\images\\close.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\images\\lock.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\images\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\images\\refresh.png",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\images\\refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\skins\\moono-lisa\\readme.md",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\skins\\moono-lisa\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\styles.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\styles.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\Themes\\ckeditor\\vendor\\promise.js",
+      "PackagePath": "staticwebassets\\Themes\\ckeditor\\vendor\\promise.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\css\\cs-skin-elastic.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\css\\cs-skin-elastic.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\css\\lib\\chosen\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\assetsAdmin\\css\\lib\\chosen\\chosen-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\css\\lib\\chosen\\chosen-sprite@2x.png",
+      "PackagePath": "staticwebassets\\assetsAdmin\\css\\lib\\chosen\\chosen-sprite@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\css\\lib\\chosen\\chosen.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\css\\lib\\chosen\\chosen.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\css\\lib\\chosen\\chosen.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\css\\lib\\chosen\\chosen.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\css\\lib\\datatable\\buttons.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\css\\lib\\datatable\\buttons.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\css\\lib\\datatable\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\css\\lib\\datatable\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\css\\lib\\datatable\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\css\\lib\\datatable\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\css\\lib\\vector-map\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\css\\lib\\vector-map\\jqvmap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\css\\style.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assetsAdmin\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\assetsAdmin\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\assetsAdmin\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\fonts\\icomoon\\index.html",
+      "PackagePath": "staticwebassets\\assetsAdmin\\fonts\\icomoon\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\init\\chartjs-init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\init\\chartjs-init.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\init\\datatables-init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\init\\datatables-init.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\init\\flot-chart-init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\init\\flot-chart-init.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\init\\fullcalendar-init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\init\\fullcalendar-init.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\init\\gmap-init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\init\\gmap-init.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\init\\peitychart-init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\init\\peitychart-init.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\init\\vector-init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\init\\vector-init.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\init\\weather-init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\init\\weather-init.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\lib\\chosen\\chosen.jquery.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\lib\\chosen\\chosen.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\lib\\chosen\\chosen.jquery.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\lib\\chosen\\chosen.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\lib\\chosen\\chosen.proto.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\lib\\chosen\\chosen.proto.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\lib\\chosen\\chosen.proto.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\lib\\chosen\\chosen.proto.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\lib\\data-table\\buttons.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\lib\\data-table\\buttons.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\lib\\data-table\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\lib\\data-table\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\lib\\data-table\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\lib\\data-table\\buttons.flash.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\lib\\data-table\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\lib\\data-table\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\lib\\data-table\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\lib\\data-table\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\lib\\data-table\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\lib\\data-table\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\lib\\data-table\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\lib\\data-table\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\lib\\data-table\\datatables.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\lib\\data-table\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\lib\\data-table\\jquery-1.12.4.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\lib\\data-table\\jquery-1.12.4.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\lib\\data-table\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\lib\\data-table\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\lib\\data-table\\jszip.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\lib\\data-table\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\lib\\data-table\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\lib\\data-table\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\lib\\data-table\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\lib\\data-table\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\lib\\gmap\\gmapApi.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\lib\\gmap\\gmapApi.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\lib\\gmap\\gmaps.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\lib\\gmap\\gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\lib\\gmap\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\lib\\gmap\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\main.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\vmap.sampledata.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\js\\widgets.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\widgets.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\scss\\style.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\scss\\style.css.map",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assetsAdmin\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assetsAdmin\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\images\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\css\\stylecss.css",
+      "PackagePath": "staticwebassets\\css\\stylecss.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\images\\.gitignore",
+      "PackagePath": "staticwebassets\\images\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\images\\admin.jpg",
+      "PackagePath": "staticwebassets\\images\\admin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\images\\admins.png",
+      "PackagePath": "staticwebassets\\images\\admins.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\images\\avatar\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\images\\avatar\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\images\\avatar\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\images\\avatar\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\images\\avatar\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\images\\avatar\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\images\\avatar\\64-1.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\64-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\images\\avatar\\64-2.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\64-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\images\\logo.psd",
+      "PackagePath": "staticwebassets\\images\\logo.psd"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\img\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\about-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\img\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\img\\ganyu.jpg",
+      "PackagePath": "staticwebassets\\img\\ganyu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\img\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\home-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\img\\hutao.jpg",
+      "PackagePath": "staticwebassets\\img\\hutao.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\img\\post-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\post-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\img\\post-sample-image.jpg",
+      "PackagePath": "staticwebassets\\img\\post-sample-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\js\\jspost.js",
+      "PackagePath": "staticwebassets\\js\\jspost.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\signup\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\signup\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\signup\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\signup\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\css\\style.css",
+      "PackagePath": "staticwebassets\\signup\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\signup\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\signup\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\signup\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\signup\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\signup\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\signup\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\signup\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\signup\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\signup\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\signup\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\signup\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\signup\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\images\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\signup\\images\\bg_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\signup\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\signup\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\js\\main.js",
+      "PackagePath": "staticwebassets\\signup\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\signup\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\signup\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\signup\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\FS\\Entity Framework\\EF\\FA.JustBlog\\FA.JustBlog\\wwwroot\\signup\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\signup\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FA.JustBlog.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FA.JustBlog.props",
+      "PackagePath": "build\\FA.JustBlog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FA.JustBlog.props",
+      "PackagePath": "buildMultiTargeting\\FA.JustBlog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FA.JustBlog.props",
+      "PackagePath": "buildTransitive\\FA.JustBlog.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@using FA.JustBlog.Core.Extension;
+@using FA.JustBlog.Core.Models;
+@using FA.JustBlog.Core.Repositories;
+@using FA.JustBlog.Core.Repositories.UnitOfWork;
+@model List<Post>
+
+<!-- Page Header-->
+<header class="masthead" style="background-image: url('../img/home-bg.jpg')">
+    <div class="container position-relative px-4 px-lg-5">
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+            <div class="col-md-10 col-lg-8 col-xl-7">
+                <div class="site-heading">
+                    <h1>Just Blog</h1>
+                    <span class="subheading">A Blog Theme by Start Bootstrap</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Main Content-->
+<div class="container px-4 px-lg-5">
+    <div class="row gx-4 gx-lg-5 justify-content-center">
+        <div class="col-md-10 col-lg-8 col-xl-7">
+            @foreach (var item in Model)
+            {
+                <!-- Post preview-->
+                <div class="post-preview">
+                    <a href="@Url.Action("Detail","Post", new { year=item.PostedOn.Year, month=item.PostedOn.Month, title = item.UrlSlug })">
+                        <h2 class="post-title">@item.Title</h2>
+                        <h3 class="post-subtitle">@item.ShortDescripion</h3>
+                    </a>
+                    <p class="post-meta">
+                        Posted by
+                        <a href="#!">TanDV3</a>
+                        on @item.Modified.GetPrettyDate() with rate @item.Rate by @item.ViewCount view(s)
+                    </p>
+                    <p class="post-meta">
+                    <p>
+                        Category:
+                            @{
+                                IUnitOfWork unitOfWork = new UnitOfWork();
+                                var listC = unitOfWork.CategoryRepository.Find(item.CategoryId);
+                                if (listC != null)
+                                {
+                                <a href="@Url.Action("GetPostByCategory","Post", new { category=listC.Name })">@listC.Name</a>
+                                }
+                            }
+                    </p>
+                    <p>
+                        Tag:
+                            @{
+                                foreach (Tag tag in unitOfWork.TagRepository.GetTagByPostId(item.Id))
+                                {
+                                <a class="border mt-1" href="@Url.Action("GetPostByTag","Post", new { tag=tag.UrlSlug })" , style="background-color: #333; color: #fff">@tag.Name</a>
+                                }
+                            }
+                    </p>
+                </div>
+                <!-- Divider-->
+                <hr class="my-4" />
+            }
+        </div>
+    </div>
+</div>

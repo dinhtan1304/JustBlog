@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\FS\Entity Framework\EF\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.deps.json
+C:\Users\ADMIN\Desktop\FS\Entity Framework\EF\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.runtimeconfig.json
+C:\Users\ADMIN\Desktop\FS\Entity Framework\EF\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.dll
+C:\Users\ADMIN\Desktop\FS\Entity Framework\EF\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.pdb
+C:\Users\ADMIN\Desktop\FS\Entity Framework\EF\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\FS\Entity Framework\EF\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\FS\Entity Framework\EF\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\FS\Entity Framework\EF\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\FS\Entity Framework\EF\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\FS\Entity Framework\EF\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.dll
+C:\Users\ADMIN\Desktop\FS\Entity Framework\EF\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\refint\FA.JustBlog.Core.dll
+C:\Users\ADMIN\Desktop\FS\Entity Framework\EF\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.pdb
+C:\Users\ADMIN\Desktop\FS\Entity Framework\EF\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\FS\Entity Framework\EF\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\ref\FA.JustBlog.Core.dll

@@ -1,0 +1,148 @@
+﻿@{
+    ViewData["Title"] = "Get Post By Category";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using FA.JustBlog.Core.Extension;
+@using FA.JustBlog.Core.Models;
+@using FA.JustBlog.Core.Repositories;
+@inject FA.JustBlog.Core.Repositories.UnitOfWork.IUnitOfWork unitOfWork;
+@model List<Post>;
+<!-- Page Header-->
+<header class="masthead" style="background-image: url('../img/post-bg.jpg')">
+    <div class="container position-relative px-4 px-lg-5">
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+            <div class="col-md-10 col-lg-8 col-xl-7">
+                <div class="post-heading text-center">
+                    <h1>List All Posts For Category</h1>
+                    <span class="meta">
+                        Thanks For Read!!!<br />
+                        <span>
+                            <a href="#!">Posts of @DateTime.Now.ToString("MM/dd/yyyy")</a>
+                        </span>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Main Content-->
+<div class="container px-4 px-lg-5">
+    <div class="row gx-4 gx-lg-5 justify-content-center">
+        <div class="col-md-10 col-lg-9 col-xl-7">
+            <h1>All posts by Category: @TempData["categoryName"]</h1>
+            <hr class="my-4" />
+            @foreach (var item in Model)
+            {
+                <!-- Post preview-->
+                <div class="post-preview">
+                    <a href="@Url.Action("Detail","Post", new { year=item.Modified.Year, month=item.Modified.Month, title = item.UrlSlug })">
+                        <h2 class="post-title">@item.Title</h2>
+                        <h4 class="post-subtitle">@item.ShortDescripion</h4>
+                    </a>
+                    <p class="post-meta">
+                        Posted by
+                        <a href="#!">Tan DV3</a>
+                        on @item.Modified.GetPrettyDate() with rate @item.Rate by @item.ViewCount view(s)
+                    </p>
+                    <p class="post-meta">
+                        Category:
+                        @{
+                            var listC = unitOfWork.CategoryRepository.Find(item.CategoryId);
+                            if (listC != null)
+                            {
+                                <a href="@Url.Action("GetPostByCategory","Post", new { category=listC.Name })">@listC.Name</a>
+                            }
+                        }
+                    </p>
+                    <p>
+                        Tag:
+                        @{
+                            foreach (Tag tag in unitOfWork.TagRepository.GetTagByPostId(item.Id))
+                            {
+                                <a class="border mt-1" href="@Url.Action("GetPostByTag","Post", new { tag=tag.UrlSlug })" , style="background-color: #333; color: #fff">@tag.Name</a>
+                            }
+                        }
+                    </p>
+                </div>
+                <!-- Divider-->
+                <hr class="my-4" />
+            }
+            <!-- Pager-->
+            @{
+
+                Func<int?, string> generateUrl = (int? _pagenumber) =>
+                {
+                    return Url.ActionLink("GetPostByCategory", null, new { page = _pagenumber });
+                };
+
+                var datapaging = new
+                {
+                    currentPage = ViewBag.pageNumber,
+                    countPages = ViewBag.totalPages,
+                    generateUrl = generateUrl
+                };
+            }
+            <partial name="_Paging" model="@datapaging" />
+        </div>
+        <div class="col-md-2 col-lg-3 col-xl-5">
+            <div style="box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;">
+                <header class="masthead" style="background-image: url('../../img/about-bg.jpg')">
+                </header>
+                <div class="ps-4 pb-2 style=" height: 150px"">
+                    <h2>About Me!</h2>
+                    <p style="font-size: 18px">Đinh Văn Tân - TanDV - FPT UNNIVERSITY - FA</p>
+                </div>
+            </div>
+            <div class="mt-5">
+                <h2>Most Viewd Post</h2>
+                <hr class="my-4" />
+                @foreach (var item in unitOfWork.PostRepository.GetMostViewedPost(5))
+                {
+                    <!-- Post preview-->
+                    <div class="post-preview">
+                        <a href="@Url.Action("Detail","Post", new { year=item.Modified.Year, month=item.Modified.Month, title = item.UrlSlug })">
+                            <h4>@item.Title</h4>
+                        </a>
+                        <p class="post-meta">
+                            <span style="font-size: 16px">Posted by <a href="#!">Tan DV3</a> on @item.Modified.GetPrettyDate() with rate @item.Rate by @item.ViewCount view(s)</span>
+                        </p>
+                    </div>
+                    <!-- Divider-->
+                    <hr class="my-4" />
+                }
+            </div>
+            <div class="mt-5">
+                <h2>Lastest Posts</h2>
+                <hr class="my-4" />
+                @foreach (var item in unitOfWork.PostRepository.GetLatestPost(5))
+                {
+                    <!-- Post preview-->
+                    <div class="post-preview">
+                        <a href="@Url.Action("Detail","Post", new { year=item.Modified.Year, month=item.Modified.Month, title = item.UrlSlug })">
+                            <h4>@item.Title</h4>
+                        </a>
+                        <p class="post-meta">
+                            <span style="font-size: 16px">Posted by <a href="#!">Tan DV3</a> on @item.Modified.GetPrettyDate() with rate @item.Rate by @item.ViewCount view(s)</span>
+                        </p>
+                    </div>
+                    <!-- Divider-->
+                    <hr class="my-4" />
+                }
+            </div>
+            <div class="mt-5" >
+                <h2>Popular Tag</h2>
+                <hr class="my-4" />
+                @foreach (Tag item in unitOfWork.TagRepository.GetAll())
+                {
+                    <a class="border mt-1" href="@Url.Action("GetPostByTag", new { tag=item.UrlSlug })" , style="background-color: #333; color: #fff">@item.Name</a>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+

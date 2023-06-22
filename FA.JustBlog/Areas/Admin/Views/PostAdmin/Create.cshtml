@@ -1,0 +1,65 @@
+﻿@model FA.JustBlog.Models.PostViewModel
+@inject FA.JustBlog.Core.Repositories.UnitOfWork.IUnitOfWork unitOfWork
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+    var list = ViewData["categories"] as SelectList;
+}
+<script src="~/Themes/ckeditor/ckeditor.js"></script>
+<h1 class="text-center">Create Post</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-10" style="margin-left: 150px;">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ShortDescripion" class="control-label"></label>
+                <input asp-for="ShortDescripion" class="form-control" />
+                <span asp-validation-for="ShortDescripion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.PostContent, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div ass="col-md-10">
+                    @Html.TextAreaFor(model => model.PostContent, new { @id = "FullDescription", @class = "form-control", @rows = "200" }) @Html.ValidationMessageFor(model => model.PostContent, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Published" /> @Html.DisplayNameFor(model => model.Published)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="CategoryId" class="control-label">Select :</label>
+                <select asp-for="CategoryId" asp-items="list" class="form-control"></select>
+                <span asp-validation-for="CategoryId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PostTagMaps" for="PostTagMaps" class="control-label">Selected tags</label>
+                <select asp-for="PostTagMaps" formacti" multiple class="form-control" name="PostTagMaps">
+                    @foreach (var tag in unitOfWork.TagRepository.GetAll())
+                    {
+                        <option value="@tag.Id">@tag.Name</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a class="btn btn-outline-secondary" asp-action="IndexPost">Back to List</a>
+</div>
+
+<script>CKEDITOR.replace("FullDescription");</script>
+
+
+
